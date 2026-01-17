@@ -25,6 +25,11 @@ function Container2() {
                 WELCOME TO
             </h1>
             <p><span>Artisan's Alley</span></p>
+
+            <p className="Scroll-p">SCROLL TO SEE MORE</p>
+            <span className="scroll-arrow">
+            </span>
+
         </header>
         
             <div className="data">
@@ -40,11 +45,6 @@ function Container2() {
                 <p>Design Post :</p>
                 <h1>2.5k+</h1>
             </div>
-        </div>
-        
-        <div className="scroll-indicator">
-            <p>SCROLL TO SEE MORE</p>
-            <span className="scroll-arrow"></span>
         </div>
 
         </>
