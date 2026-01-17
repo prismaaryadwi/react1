@@ -1,4 +1,4 @@
-import Container1 from "./container1";
+import Container1 from "./Container1";
 import Container2 from "./Container2";
 
 function App() {
