@@ -387,7 +387,7 @@ nav ul li a {
   position: absolute;
 
   left: 50%;  
-  bottom: 90px;    
+  bottom: 50px;    
   transform: translateX(-50%);
 
   z-index: 20;
