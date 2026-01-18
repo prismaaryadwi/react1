@@ -7,7 +7,7 @@ function Container2() {
             <img src={Logos} alt=''></img>
             <nav className='Mainnav'>
                 <ul>
-                    <li><a href='https://www.youtube.com/watch?v=lJ5uJNc7K_o'>BERANDA</a></li>
+                    <li><a href='#'>BERANDA</a></li>
                     <li><a href='#'>INFO</a></li>
                     <li><a href='#'>TAGWALL</a></li>
                     <li><a href='#'>ALLTOOLS</a></li>
